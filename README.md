@@ -31,5 +31,3 @@ This repository contains the official author's implementation associated with th
 | :----------------------------------------------------------: |
 |       Pipeline of  GS-W     |       
 
-
--->
