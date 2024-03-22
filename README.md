@@ -32,7 +32,7 @@ This repository contains the official author's implementation associated with th
 |       Pipeline of  GS-W     |       
 
 ##
-
+<!--
 ## Cloning the Repository
 The repository contains submodules, thus please check it out with 
 ```shell
@@ -164,3 +164,4 @@ CUDA_VISIBLE_DEVICES=0 python ./metrics.py -model_path --model_path outputs/sacr
 ```
 ## Acknowledge
 Our code is based on the awesome Pytorch implementation of 3D Gaussian Splatting ([3DGS](https://github.com/graphdeco-inria/gaussian-splatting)). We appreciate all the contributors.
+-->
