@@ -4,7 +4,7 @@
 <p align="center">
   
 <!-- [Dongbin Zhang*](https://github.com/EastbeanZhang), [Chuming Wang*](javascript:void(0)),[Weitao Wang](javascript:void(0)), [Peihao Li]("https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ"), [Minghan Qin](https://github.com/minghanqin), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
-  <br>(\* indicates equal contribution, † means corresponding author)<br>| [Webpage](https://eastbeanzhang.github.io/GS-W/) | [Full Paper](javascript:void(0)) | [Video](javascript:void(0)) |<be>-->
+  <br>(\* indicates equal contribution, † means corresponding author)<br>| [Webpage](https://eastbeanzhang.github.io/GS-W/) | [Full Paper](https://arxiv.org/pdf/2403.15704.pdf) | [Video](https://www.youtube.com/watch?v=BNIX-OmIzgo) |<be>-->
 
 
 <p align="center">
