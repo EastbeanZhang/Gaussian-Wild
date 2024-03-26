@@ -19,11 +19,11 @@
 
 <p align="center">
   <a href="https://eastbeanzhang.github.io/GS-W/">Webpage</a> | 
-  <a href="javascript:void(0)">Full Paper</a> | 
-  <a href="javascript:void(0)">Video</a>
+  <a href="https://arxiv.org/pdf/2403.15704.pdf">Full Paper</a> | 
+  <a href="https://www.youtube.com/watch?v=BNIX-OmIzgo">Video</a>
 </p>
     
-This repository contains the official author's implementation associated with the paper "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections", which can be found [here](javascript:void(0)).
+This repository contains the official author's implementation associated with the paper "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections", which can be found [here](https://arxiv.org/pdf/2403.15704.pdf).
 
 ![Teaser image](assets/teaser.png)
 
