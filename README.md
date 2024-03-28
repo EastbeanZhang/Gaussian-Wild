@@ -39,6 +39,6 @@ This repository contains the official author's implementation associated with th
   author={Zhang, Dongbin and Wang, Chuming and Wang, Weitao and Li, Peihao and Qin, Minghan and Wang, Haoqian},
   journal={arXiv preprint arXiv:2403.15704},
   year={2024}
-  }</code></pre>
+}</code></pre>
   </div>
 </section>
