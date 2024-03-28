@@ -38,6 +38,7 @@ This repository contains the official author's implementation associated with th
   title={Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections},
   author={Zhang, Dongbin and Wang, Chuming and Wang, Weitao and Li, Peihao and Qin, Minghan and Wang, Haoqian},
   journal={arXiv preprint arXiv:2403.15704},
-  year={2024}}}</code></pre>
+  year={2024}
+      }}</code></pre>
   </div>
 </section>
