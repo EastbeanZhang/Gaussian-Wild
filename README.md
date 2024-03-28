@@ -31,3 +31,16 @@ This repository contains the official author's implementation associated with th
 | :----------------------------------------------------------: |
 |       Pipeline of  GS-W     |       
 
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+      @article{zhang2024gaussian,
+  title={Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections},
+  author={Zhang, Dongbin and Wang, Chuming and Wang, Weitao and Li, Peihao and Qin, Minghan and Wang, Haoqian},
+  journal={arXiv preprint arXiv:2403.15704},
+  year={2024}
+}
+}</code></pre>
+  </div>
+</section>
