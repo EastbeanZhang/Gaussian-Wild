@@ -1,0 +1,29 @@
+name: GS-W
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.6
+  - plyfile
+  - python=3.7.13
+  - pytorch=1.12.1
+  - torchaudio=0.12.1
+  - torchvision=0.13.1
+  - pip=22.3.1
+  - tqdm
+
+  - pip:
+    - submodules/diff-gaussian-rasterization
+    - submodules/simple-knn
+    - imageio==2.31.2
+    - imageio-ffmpeg==0.4.9
+    - pandas==1.3.5
+    - lpips==0.1.4
+    - matplotlib==3.5.3
+    - kornia==0.6.8
+    - importlib_metadata==6.7.0
+
+
+
+

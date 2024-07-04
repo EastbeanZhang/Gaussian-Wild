@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python ./metrics_half.py -model_path --model_path outputs/sacre/full
