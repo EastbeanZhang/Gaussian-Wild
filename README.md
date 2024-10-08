@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections</h1>
+  <h1 align="center">[ECCV 2024] Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections</h1>
 <p align="center">
   
 <!-- [Dongbin Zhang*](https://github.com/EastbeanZhang), [Chuming Wang*](javascript:void(0)),[Weitao Wang](javascript:void(0)), [Peihao Li]("https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ"), [Minghan Qin](https://github.com/minghanqin), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
