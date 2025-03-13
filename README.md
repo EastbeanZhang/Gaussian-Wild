@@ -166,11 +166,13 @@ CUDA_VISIBLE_DEVICES=0 python ./metrics.py -model_path --model_path outputs/sacr
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@article{zhang2024gaussian,
-  title={Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections},
+    <pre><code>@inproceedings{zhang2024GS-W,
+  title={Gaussian in the wild: 3d gaussian splatting for unconstrained image collections},
   author={Zhang, Dongbin and Wang, Chuming and Wang, Weitao and Li, Peihao and Qin, Minghan and Wang, Haoqian},
-  journal={arXiv preprint arXiv:2403.15704},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={341--359},
+  year={2024},
+  organization={Springer}
 }</code></pre>
   </div>
 </section>
